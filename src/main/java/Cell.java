@@ -19,13 +19,13 @@ public class Cell extends JButton implements MouseListener {
      * Red color scheme
      **/
     public static final Color COLOR_RED_ALIVE = new Color(0x8E0000);
-    public static final Color COLOR_RED_DEAD = new Color(0xFF0000);
+    public static final Color COLOR_RED_DEAD = new Color(0xFF4F4F);
     public static final Color COLOR_RED_BACKGROUND = new Color(0xFFBEBE);
 
     /**
      * Light color scheme
      **/
-    public static final Color COLOR_LIGHT_ALIVE = new Color(0xA1A1A1);
+    public static final Color COLOR_LIGHT_ALIVE = new Color(0x828282);
     public static final Color COLOR_LIGHT_DEAD = new Color(0xdedede);
     public static final Color COLOR_LIGHT_BACKGROUND = Color.WHITE;
 
