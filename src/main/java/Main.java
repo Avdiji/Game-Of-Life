@@ -1,8 +1,8 @@
 public class Main {
 
-    public static void main(String[] args){
+    public static void main(String[] args) {
 
-        GameOfLife GOF = new GameOfLife();
+        GameOfLife GOL = new GameOfLife();
 
     }
 }

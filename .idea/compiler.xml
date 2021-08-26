@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="00_GameOfLife" />
+        <module name="Game Of Life" />
       </profile>
     </annotationProcessing>
   </component>
